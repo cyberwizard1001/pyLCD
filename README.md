@@ -8,7 +8,7 @@ This program is licensed under the AGPLv3. See the `LICENSE` file for more infor
 
 Installation
 ------------
-You can easily install the pyLCD lib using the Python Package Index. Just type:
+You can easily install the pyLCD lib usin;klgmnfgklsjhnilsjhgodfgg the Python Package Index. Just type:
 
 	sudo pip install pylcd
 
